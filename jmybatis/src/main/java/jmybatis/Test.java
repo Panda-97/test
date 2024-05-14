@@ -99,7 +99,7 @@ public class Test {
 			}
 
 		} // while
-
+		System.out.println("Hi");
 	} // main
-
+	
 } // class
